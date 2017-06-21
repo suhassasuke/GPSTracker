@@ -8,8 +8,10 @@
 
     <Button
         android:id="@+id/btnShowLocation"
-        android:layout_height="wrap_content"
-        android:layout_width="wrap_content"
-        android:text="self_destruct" />
+        android:layout_height="85dp"
+        android:layout_width="324dp"
+        android:text="self_destruct"
+        tools:layout_editor_absoluteY="91dp"
+        tools:layout_editor_absoluteX="21dp" />
 
 </android.support.constraint.ConstraintLayout>
